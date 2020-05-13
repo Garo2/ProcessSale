@@ -1,0 +1,941 @@
+
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:154)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:57)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:48)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:23)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:38)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:20)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:154)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:57)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:48)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:23)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:41)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:20)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:145)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:57)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:48)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:26)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:41)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:21)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:145)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:57)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:48)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:26)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:44)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:21)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:145)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:57)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:48)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:26)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:41)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:21)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:145)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:57)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:48)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:26)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:44)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:21)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:48)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:26)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:41)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:21)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:48)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:26)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:44)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:21)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:48)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:26)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:41)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:21)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:48)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:26)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:44)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:21)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:48)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:26)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:41)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:21)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:48)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:26)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:44)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:21)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:26)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:41)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:21)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:26)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:44)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:21)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:26)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:41)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:21)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:26)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:44)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:21)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:26)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:41)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:21)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:26)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:44)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:21)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:26)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:41)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:21)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:26)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:44)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:21)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:26)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:41)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:21)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:26)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:44)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:21)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.DataBaseConnectionException: The connection to database failed, please try again
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:41)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:58)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:46)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:147)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:59)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with this itemId
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:147)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:59)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.DataBaseConnectionException: The connection to database failed, please try again
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:41)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:147)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:59)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:46)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with Id1111
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:147)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:59)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with Id222
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:147)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:59)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.DataBaseConnectionException: The connection to database failed, please try again
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:41)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:147)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:59)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:46)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with Id1111
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:147)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:59)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with Id222
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:147)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:59)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.DataBaseConnectionException: The connection to database failed, please try again
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:41)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:147)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:59)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:46)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with Id: 1111
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:147)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:59)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with Id: 222
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:147)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:59)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.DataBaseConnectionException: The connection to database failed, please try again
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:41)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:147)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:59)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:46)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with Id: 1111
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:147)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:59)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.NoSuchItemFoundException: No item has been found with Id: 222
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:52)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:147)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:59)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar3processsale.integration.DataBaseConnectionException: The connection to database failed, please try again
+	at se.kth.iv1350.seminar3processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:41)
+	at se.kth.iv1350.seminar3processsale.model.Sale.getItemInfo(Sale.java:147)
+	at se.kth.iv1350.seminar3processsale.model.Sale.addItem(Sale.java:59)
+	at se.kth.iv1350.seminar3processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar3processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar3processsale.view.View.customerSale(View.java:46)
+	at se.kth.iv1350.seminar3processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar3processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.NoSuchItemFoundException: No item has been found with Id: 1111
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:56)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:147)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:59)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.NoSuchItemFoundException: No item has been found with Id: 222
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:56)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:147)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:59)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.DataBaseConnectionException: The connection to database failed, please try again
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:45)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:147)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:59)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:46)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.NoSuchItemFoundException: No item has been found with Id: 1111
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:56)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:150)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:61)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.NoSuchItemFoundException: No item has been found with Id: 222
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:56)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:150)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:61)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.DataBaseConnectionException: The connection to database failed, please try again
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:45)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:150)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:61)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:46)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.NoSuchItemFoundException: No item has been found with Id: 1111
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:56)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:150)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:61)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.NoSuchItemFoundException: No item has been found with Id: 222
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:56)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:150)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:61)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.DataBaseConnectionException: The connection to database failed, please try again
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:45)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:150)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:61)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:46)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.NoSuchItemFoundException: No item has been found with Id: 1111
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:56)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:150)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:61)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.NoSuchItemFoundException: No item has been found with Id: 222
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:56)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:150)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:61)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.DataBaseConnectionException: The connection to database failed, please try again
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:45)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:150)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:61)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:46)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.NoSuchItemFoundException: No item has been found with Id: 1111
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:56)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:150)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:61)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.NoSuchItemFoundException: No item has been found with Id: 222
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:56)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:150)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:61)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.DataBaseConnectionException: The connection to database failed, please try again
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:45)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:150)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:61)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:46)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.NoSuchItemFoundException: No item has been found with Id: 1111
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:56)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:150)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:61)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.NoSuchItemFoundException: No item has been found with Id: 222
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:56)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:150)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:61)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.DataBaseConnectionException: The connection to database failed, please try again
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:45)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:150)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:61)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:46)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.NoSuchItemFoundException: No item has been found with Id: 1111
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:56)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:150)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:61)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.NoSuchItemFoundException: No item has been found with Id: 222
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:56)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:150)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:61)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.DataBaseConnectionException: The connection to database failed, please try again
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:45)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:150)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:61)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:49)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:46)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:20)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.NoSuchItemFoundException: No item has been found with Id: 1111
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:56)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:57)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:48)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:42)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:17)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.NoSuchItemFoundException: No item has been found with Id: 222
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:56)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:57)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:48)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:45)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:17)
+This error massage will be sent and shown only to the developer.
+se.kth.iv1350.seminar4Processsale.integration.DataBaseConnectionException: The connection to database failed, please try again
+	at se.kth.iv1350.seminar4Processsale.integration.InventorySystem.getItemInfo(InventorySystem.java:45)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.getItemInfo(Sale.java:146)
+	at se.kth.iv1350.seminar4Processsale.model.Sale.addItem(Sale.java:57)
+	at se.kth.iv1350.seminar4Processsale.controller.Controller.addItemToSale(Controller.java:48)
+	at se.kth.iv1350.seminar4Processsale.view.View.returnedItem(View.java:27)
+	at se.kth.iv1350.seminar4Processsale.view.View.customerSale(View.java:46)
+	at se.kth.iv1350.seminar4Processsale.view.View.<init>(View.java:23)
+	at se.kth.iv1350.seminar4Processsale.main.Main.main(Main.java:17)
