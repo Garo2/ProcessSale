@@ -9,7 +9,6 @@ import java.util.ArrayList;
 public class ItemRegistery {
 
     private ArrayList<ItemDTO> itemDTOList;
-//    private double totalPrice;
     private ArrayList<Integer> itemQuantityList;
 
     /**
