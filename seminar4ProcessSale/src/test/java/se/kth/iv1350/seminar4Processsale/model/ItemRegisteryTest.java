@@ -63,6 +63,7 @@ class ItemRegisteryTest {
         instanceItemQuantityList.add(1, 1);
         instanceItemRegistery.addItemToRegistery(itemDTO3);
         instanceItemQuantityList.add(2, 1);
+        //String returnedItemDescription = instanceItemRegistery.getItemDTOList().get(0).getItemDescription() + ", " + instanceItemRegistery.getItemDTOList().get(1).getItemDescription() + ", " + instanceItemRegistery.getItemDTOList().get(2).getItemDescription();
         String returnedItemQuantityList = instanceItemRegistery.getItemQuantityList().get(0)+ ", " + instanceItemRegistery.getItemQuantityList().get(1) + ", " + instanceItemRegistery.getItemQuantityList().get(2);
         String expectedReturnedString = "1, 1, 1";
         boolean similarity = returnedItemQuantityList.equals(expectedReturnedString);
