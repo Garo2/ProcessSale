@@ -3,7 +3,8 @@ package se.kth.iv1350.seminar4Processsale.integration;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import se.kth.iv1350.seminar4Processsale.dto.ItemDTO;
+import se.kth.iv1350.seminar4Processsale.exceptions.DataBaseConnectionException;
+import se.kth.iv1350.seminar4Processsale.exceptions.NoSuchItemFoundException;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -41,6 +42,7 @@ class InventorySystemTest {
         boolean differenceBetweenItems = ItemDescription.equals(unexpectedItemDescription);
         assertFalse(differenceBetweenItems);
     }
+
     @Test
     void testSameItemExistTwice() throws NoSuchItemFoundException, DataBaseConnectionException {
         String ItemDescription1 = (instanceInvSystem.getItemInfo(123)).getItemDescription();
@@ -48,4 +50,37 @@ class InventorySystemTest {
         boolean similiarDescriptionTwice = ItemDescription1.equals(ItemDescription2);
         assertFalse(similiarDescriptionTwice);
     }
+
+    @Test
+    void testNoSuchItemFoundException()
+    {
+
+        try {
+            instanceInvSystem.getItemInfo(1221);
+        } catch (NoSuchItemFoundException e) {
+            return;
+        } catch (DataBaseConnectionException e) {
+            fail("Wrong exception thrown. Expected: NoSuchItemFoundException");
+        }
+
+        fail("No exception has been thrown. Expected: NoSuchItemFoundException.");
+
+    }
+
+    @Test
+    void testDataBaseConnectionException()
+    {
+
+        try {
+            instanceInvSystem.getItemInfo(0);
+        } catch (NoSuchItemFoundException e) {
+            fail("Wrong exception thrown. Expected: DataBaseConnectionException");
+        } catch (DataBaseConnectionException e) {
+           return;
+        }
+
+        fail("No exception has been thrown. Expected: DataBaseConnectionException.");
+
+    }
+
 }

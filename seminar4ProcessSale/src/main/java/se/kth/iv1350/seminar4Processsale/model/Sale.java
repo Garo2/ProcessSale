@@ -4,6 +4,9 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
 import se.kth.iv1350.seminar4Processsale.dto.*;
+import se.kth.iv1350.seminar4Processsale.exceptions.DataBaseConnectionException;
+import se.kth.iv1350.seminar4Processsale.exceptions.NoSuchItemFoundException;
+import se.kth.iv1350.seminar4Processsale.exceptions.OperationFailedException;
 import se.kth.iv1350.seminar4Processsale.integration.*;
 
 /**
@@ -23,7 +26,7 @@ public class Sale {
     private double vatRateForEntireSale;
     private String itemDTOToString ="";
     private SaleLog saleLog;
-    private Logger logger;
+
 
     /**
      * creating a constructor for Sale with an instance of Log.
@@ -33,7 +36,6 @@ public class Sale {
         this.inventorySystem = inventorySystem;
         this.accountingSystem = accountingSystem;
         this.paymentManager = paymentManager;
-        this.logger = new Logger();
     }
 
     /**
@@ -53,8 +55,7 @@ public class Sale {
      * @param itemId passing the itemId to return the itemDetails for adding them to saleList.
      * @return output return the item details as string
      */
-    public String addItem(int itemId){
-        ItemDTO itemDTO = getItemInfo(itemId);
+    public String addItem(ItemDTO itemDTO){
         if(itemDTO == null){
             return "";
         }
@@ -100,13 +101,10 @@ public class Sale {
                 itemQuantity = itemRegistery.getItemQuantityList().get(i);
                 itemDTOToString += "-" + itemDTOList.get(i).getItemDescription() + "" + itemQuantity+ " piece/s\t\t price: "+
                         (itemQuantity * paymentManager.getPriceRounded(paymentManager.calcItemPriceIncVat(itemDTOList.get(i).getItemPriceExcVat(), itemDTOList.get(i).getItemVatRate())) + " kr\n");
-
             }
-
         }
         return itemDTOToString;
     }
-
 
     /**
      * @return itemDTOList which contains the list of added items.
@@ -137,21 +135,7 @@ public class Sale {
         printer.printOutReceipt(receiptDTO);
     }
 
-    /**
-     * @param itemId pass the itemId to InventorySystem to return ItemDTO from Inventory.
-     * @return ItemInfo to Sale.
-     */
-    private ItemDTO getItemInfo(int itemId) {
-        try {
-            return inventorySystem.getItemInfo(itemId);
-        }
-        catch(NoSuchItemFoundException | DataBaseConnectionException exception) {
 
-            logger.logForDeveloper(exception);
-            logger.logForUser(exception);
-            return null;
-        }
-    }
 
     /**
      * @param saleLog save the loggedSale in AccountingSystem.

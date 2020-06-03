@@ -10,9 +10,8 @@ import java.io.PrintWriter;
 public class Logger {
     private PrintWriter dataWriter;
 
-
     /**
-     * Loggers the exceptions into textFile or print a massage to user and saveStackTrace
+     * Loggers the exceptions into textFile or print a message to user and saveStackTrace
      */
     public Logger(){
         try {
@@ -24,18 +23,11 @@ public class Logger {
     }
 
     /**
+     * Logs an exception for the developer with detailed information
      * @param exception that may occurs while running the program
      */
     public void logForDeveloper(Exception exception) {
-        dataWriter.println("This error massage will be sent and shown only to the developer.");
+        dataWriter.println("This error message will be sent and shown only to the developer.");
         exception.printStackTrace(dataWriter);
     }
-
-    /**
-     * @param exception that may occurs while running the program
-     */
-    public void logForUser(Exception exception) {
-        System.out.println(exception.getMessage());
-    }
-
 }

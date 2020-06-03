@@ -1,5 +1,9 @@
 package se.kth.iv1350.seminar4Processsale.controller;
 
+import se.kth.iv1350.seminar4Processsale.dto.ItemDTO;
+import se.kth.iv1350.seminar4Processsale.exceptions.DataBaseConnectionException;
+import se.kth.iv1350.seminar4Processsale.exceptions.NoSuchItemFoundException;
+import se.kth.iv1350.seminar4Processsale.exceptions.OperationFailedException;
 import se.kth.iv1350.seminar4Processsale.integration.*;
 import se.kth.iv1350.seminar4Processsale.model.*;
 
@@ -16,6 +20,7 @@ public class Controller {
     private ItemRegistery itemRegistery;
     private PaymentManager paymentManager;
     private AccountingSystem accountingSystem;
+    private Logger logger;
 
     /**
      * @param printer an instance of Printer which will print the receipt later.
@@ -29,6 +34,7 @@ public class Controller {
         this.customerDiscountSystem = customerDiscountSystem;
         this.accountingSystem = accountingSystem;
         this.paymentManager = new PaymentManager();
+        this.logger = new Logger();
     }
 
     /**
@@ -44,11 +50,12 @@ public class Controller {
      * @param itemId the id which has been entered by cashier.
      * @return returns the itemDTO.
      */
-    public String addItemToSale(int itemId) {
-        if(sale.addItem(itemId).equals("")){
+    public String addItemToSale(int itemId) throws OperationFailedException {
+       ItemDTO itemDTO =  getItemInfo(itemId);
+        if(sale.addItem(itemDTO).equals("")){
             return "";
         }
-        return sale.addItem(itemId);
+        return sale.addItem(itemDTO);
     }
 
     /**
@@ -72,6 +79,20 @@ public class Controller {
 
     public void registerObserver(RegistryObserver observer) {
         paymentManager.registerObserver(observer);
+    }
+
+    /**
+     * @param itemId pass the itemId to InventorySystem to return ItemDTO from Inventory.
+     * @return ItemInfo to Sale.
+     */
+    private ItemDTO getItemInfo(int itemId) throws OperationFailedException {
+        try {
+            return inventorySystem.getItemInfo(itemId);
+        }
+        catch(NoSuchItemFoundException | DataBaseConnectionException exception) {
+            logger.logForDeveloper(exception);
+            throw new OperationFailedException(exception.getMessage());
+        }
     }
 
 }

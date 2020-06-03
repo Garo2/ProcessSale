@@ -2,6 +2,8 @@ package se.kth.iv1350.seminar4Processsale.integration;
 
 import se.kth.iv1350.seminar4Processsale.dto.ItemDTO;
 import se.kth.iv1350.seminar4Processsale.dto.SaleLog;
+import se.kth.iv1350.seminar4Processsale.exceptions.DataBaseConnectionException;
+import se.kth.iv1350.seminar4Processsale.exceptions.NoSuchItemFoundException;
 
 /**
  * This system includes the store's items, and all necessary information. and the itemDTO[] updates repeatedly after each sale
